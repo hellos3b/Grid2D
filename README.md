@@ -11,7 +11,7 @@ Created to help with managing a Tilemap system in a 2d game
 
 ## Example
 
-Example from a small (loopy) procedural generator I wrote
+Small sample from a small (loopy) procedural world generator where it helped 
 ```
 var grid = new Grid2D({w: 5, h: 5});
             
